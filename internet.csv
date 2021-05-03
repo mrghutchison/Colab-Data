@@ -1,0 +1,14 @@
+﻿"REF_DATE","GEO","DGUID","Internet use from any location","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2018","Canada","2016A000011124","Internet use","Percent","239","units","0","v1074281048","1.1","91.3","A","","","1"
+"2018","Newfoundland and Labrador","2016A000210","Internet use","Percent","239","units","0","v1074281049","2.1","86.0","A","","","1"
+"2018","Prince Edward Island","2016A000211","Internet use","Percent","239","units","0","v1074281050","3.1","88.5","A","","","1"
+"2018","Nova Scotia","2016A000212","Internet use","Percent","239","units","0","v1074281051","4.1","88.5","A","","","1"
+"2018","New Brunswick","2016A000213","Internet use","Percent","239","units","0","v1074281052","5.1","89.2","A","","","1"
+"2018","Quebec","2016A000224","Internet use","Percent","239","units","0","v1074281053","6.1","88.0","A","","","1"
+"2018","Ontario","2016A000235","Internet use","Percent","239","units","0","v1074281054","7.1","92.2","A","","","1"
+"2018","Manitoba","2016A000246","Internet use","Percent","239","units","0","v1074281055","8.1","91.2","A","","","1"
+"2018","Saskatchewan","2016A000247","Internet use","Percent","239","units","0","v1074281056","9.1","89.9","A","","","1"
+"2018","Alberta","2016A000248","Internet use","Percent","239","units","0","v1074281057","10.1","94.1","A","","","1"
+"2018","British Columbia","2016A000259","Internet use","Percent","239","units","0","v1074281058","11.1","94.0","A","","","1"
+
+
